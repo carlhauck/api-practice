@@ -4,7 +4,7 @@ puts
 puts "Welcome to Gruff Dictionary."
 while true
   puts
-  puts "Gimme a damn word. Wanna quit? Enter 'q'."
+  puts "Gimme a word. Wanna quit? Enter 'q'."
   word = gets.chomp
   if word == "q"
     puts
